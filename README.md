@@ -1,4 +1,4 @@
-### I am a passionate scientist with a background in biology and statistics and pivoting into data science, analytics and visualization!
+### I am a passionate data scientist with a comprehensive background and record in modeling, statistics, data management and programming
 
 <!--
 **paultanger/paultanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
